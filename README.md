@@ -1,2 +1,2 @@
-# js-hindi
-Code repo for practice
+# javascript
+code repository for practice
